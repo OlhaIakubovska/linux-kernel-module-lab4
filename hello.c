@@ -11,7 +11,7 @@
 #include <linux/slab.h>
 #include <linux/ktime.h>
 
-MODULE_AUTHOR("Olha Yakubovska <olasha228"gmail.com>");
+MODULE_AUTHOR("Olha Yakubovska <olasha228@gmail.com>");
 MODULE_DESCRIPTION("Hello, world module with a list of event timestamps");
 MODULE_LICENSE("GPL");
 
